@@ -1,0 +1,11 @@
+div {
+  margin: 1rem;
+  border: 3px dotted blueviolet;
+  text-align: center;
+  padding: 1rem;
+}
+
+div:hover {
+  opacity: 0.6;
+  box-shadow: 5px 10px;
+}
